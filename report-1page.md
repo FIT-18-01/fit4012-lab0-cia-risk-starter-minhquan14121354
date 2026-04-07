@@ -30,8 +30,8 @@
 
 ### 4. Kết luận ngắn
 (4-6 dòng: em học được gì từ bài lab này, phần nào khó nhất, điều gì cần chú ý khi phân tích một sự cố an toàn thông tin.)
-- Qua bài lab, em đã học được cách áp dụng mô hình CIA để đánh giá rủi ro cho một hệ thống thực tế.
-- Phần khó nhất là phân tích sự khác biệt giữa mối đe dọa (tác nhân bên ngoài) và lỗ hổng (điểm yếu nội tại).
-- Khi phân tích sự cố an toàn thông tin, điều cần chú ý nhất là xác định mức độ ảnh hưởng của nó đến tài sản quan trọng nhất.
-- Việc hiểu rõ các biện pháp giảm nhẹ giúp em có tư duy phòng thủ tốt hơn khi phát triển ứng dụng sau này.
-- Luôn cần có cơ chế sao lưu dữ liệu thường xuyên để đảm bảo tính toàn vẹn và sẵn sàng.
+Qua bài lab, em đã học được cách áp dụng mô hình CIA để đánh giá rủi ro cho một hệ thống thực tế,
+Phần khó nhất là phân tích sự khác biệt giữa mối đe dọa và lỗ hổng,
+Khi phân tích sự cố an toàn thông tin, điều cần chú ý nhất là xác định mức độ ảnh hưởng của nó đến tài sản quan trọng nhất,
+Việc hiểu rõ các biện pháp giảm nhẹ giúp em có tư duy phòng thủ tốt hơn khi phát triển ứng dụng sau này,
+Luôn cần có cơ chế sao lưu dữ liệu thường xuyên để đảm bảo tính toàn vẹn và sẵn sàng.
