@@ -48,7 +48,5 @@ Viết 5-7 dòng.
 ---
 
 ## 5. Bonus Flag
-`FIT4012{A-?-B-?-C-?}`
-
-Flag của em: FIT4012{A-C-B-I-C-A}
+`FIT4012{A-C-B-I-C-A}`
 
