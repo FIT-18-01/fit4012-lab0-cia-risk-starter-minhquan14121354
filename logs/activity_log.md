@@ -14,6 +14,11 @@
 - [ ] 10:00 - Push repo và kiểm tra link nộp
 
 ## Ghi chú thêm
-- Khó khăn gặp phải:
-- Cách em xử lý:
-- Điều em học được từ bài lab:
+- Khó khăn gặp phải: Phân biệt rõ giữa Threat và Vulnerability.
+					 Xác định đúng thành phần CIA bị vi phạm trong từng sự cố.
+					 
+- Cách em xử lý: Tra cứu thêm các ví dụ thực tế về tấn công hệ thống điểm.
+                 Sử dụng sơ đồ tư duy để phân tích rủi ro một cách hệ thống.
+                 
+- Điều em học được từ bài lab: Hiểu rõ tầm quan trọng của bộ ba CIA đối với tài sản (Assets).
+                               Thành thạo quy trình làm việc cơ bản trên GitHub (Clone, Push).
